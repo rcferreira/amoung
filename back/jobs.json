@@ -1,0 +1,74 @@
+[
+  {
+    "logo": "https://pbs.twimg.com/ext_tw_video_thumb/1158852285520330754/pu/img/UU4Wl811Ir9d5HVH.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "cidade": "Presidente Prudente",
+    "estado": "São Paulo",
+    "requisitos": "Experiencia de 1 ano com javascript e bancos relacionais e não relacionais",
+    "formacao": "Ciencias da Computacao, Sistemas de informação",
+    "conhecimentos": ["HTML", "CSS", "JAVASCRIPT", "MONGODB", "MYSQL"],
+    "regime": "CLT",
+    "jornada": "8",
+    "remuneracao": "3500"
+  },
+  {
+    "logo": "https://dair-iitd.github.io/FloDial/core_gray10_on_blue60.svg",
+    "cargo": "Desenvolvedor Back-End",
+    "cidade": "Presidente Prudente",
+    "estado": "São Paulo",
+    "requisitos": "Estrutura de dados, 2 anos como desenvolvedor",
+    "formacao": "Ciencias da Computacao, Sistemas de informação",
+    "conhecimentos": ["HTML", "CSS", "Ruby on Rails", "PostgresSQL", "Docker", "Kurbenetes"],
+    "regime": "CLT",
+    "jornada": "8",
+    "remuneracao": "4500"
+  },
+  {
+    "logo": "https://media.glassdoor.com/sql/2763/deloitte-squarelogo-1481880537463.png",
+    "cargo": "Desenvolvedor Front End",
+    "cidade": "Presidente Prudente",
+    "estado": "São Paulo",
+    "regime": "CLT",
+    "requisitos": "Estrutura de dados, 2 anos como desenvolvedor",
+    "formacao": "Ciencias da Computacao, Sistemas de informação",
+    "conhecimentos": ["HTML", "CSS", "Ruby on Rails", "PostgresSQL", "Docker", "Kurbenets"],
+    "jornada": "8",
+    "remuneracao": "3.850,00"
+  },
+  {
+    "logo": "https://static-prod.adweek.com/wp-content/uploads/2022/03/accenture-pulls-out-russia-2022.jpg",
+    "cargo": "Analista de Suporte",
+    "cidade": "Presidente Prudente",
+    "estado": "São Paulo",
+    "regime": "CLT",
+    "requisitos": "Estrutura de dados, 2 anos como desenvolvedor",
+    "formacao": "Ciencias da Computacao, Sistemas de informação",
+    "conhecimentos": ["HTML", "CSS", "Ruby on Rails", "PostgresSQL", "Docker", "Kurbenets"],
+    "jornada": "8",
+    "remuneracao": "4.200,00"
+  },
+  {
+    "logo": "https://yt3.ggpht.com/ytc/AKedOLRqs8NBXARXm50WhrzV3vgKf1HfJCkuRW47UVWDyA=s900-c-k-c0x00ffffff-no-rj.jpg",
+    "cargo": "Analista de Suporte",
+    "cidade": "Presidente Prudente",
+    "estado": "São Paulo",
+    "requisitos": "Estrutura de dados, 2 anos como desenvolvedor",
+    "formacao": "Ciencias da Computacao, Sistemas de informação",
+    "conhecimentos": ["HTML", "CSS", "Ruby on Rails", "PostgresSQL", "Docker", "Kurbenets"],
+    "regime": "CLT",
+    "jornada": "8",
+    "remuneracao": "3.000,00"
+  },
+  {
+    "logo": "http://sindpd.org.br/sindpd/upload/news/1634304863333.jpg",
+    "cargo": "Analista de Suporte",
+    "cidade": "Presidente Prudente",
+    "estado": "São Paulo",
+    "requisitos": "Estrutura de dados, 2 anos como desenvolvedor",
+    "formacao": "Ciencias da Computacao, Sistemas de informação",
+    "conhecimentos": ["HTML", "CSS", "Ruby on Rails", "PostgresSQL", "Docker", "Kurbenets"],
+    "regime": "CLT",
+    "jornada": "8",
+    "remuneracao": "3.000,00"
+  }
+]
